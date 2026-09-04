@@ -1,0 +1,19 @@
+{
+  "config_revision": 1,
+
+  "maintenance": false,
+  "maintenance_message": "Maintenance temporaire. Merci de réessayer dans quelques minutes.",
+
+  "emergency_lock": false,
+
+  "global_message_enabled": false,
+  "message_id": 1,
+  "message_title": "Information",
+  "global_message_type": "info",
+  "global_message": "",
+
+  "minimum_version": "13.0.2",
+  "force_update": false,
+
+  "posts": {}
+}
